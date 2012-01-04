@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/jaredwilkerson/MediaSite/.bundle'
+let g:netrw_dirhist_2='/Users/jaredwilkerson/Vivisimo.old/Java/UniqueCounter/src/uniquecounter'
+let g:netrw_dirhist_3='/Users/jaredwilkerson/MediaSite'
+let g:netrw_dirhist_4='/Users/jaredwilkerson/PersonalMediaSite'
+let g:netrw_dirhist_5='/Users/jaredwilkerson/RubyProjects/MediaSite'
+let g:netrw_dirhist_6='/Users/jaredwilkerson/RubyProjects/MediaSite.old'
+let g:netrw_dirhist_7='/Users/jaredwilkerson/Vivisimo/gelato/cxo'
